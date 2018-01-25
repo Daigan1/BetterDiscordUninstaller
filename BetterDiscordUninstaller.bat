@@ -1,40 +1,4 @@
-::[Bat To Exe Converter]
-::
-::fBE1pAF6MU+EWHreyHcjLQlHcACDNWy7OpEZ++Pv4Pq7oEkIWusxa5va1riLMtwx71HwcIQJ32lZl9kIQg1abXI=
-::fBE1pAF6MU+EWHreyHcjLQlHcACDNWy7OpEZ++Pv4Pq7oEkIWusxa5va1riLMtwd5WfhYYIoxF5Ti8gDHh8WaBC4Dg==
-::fBE1pAF6MU+EWHreyHcjLQlHcACDNWy7OpEZ++Pv4Pq7oEkIWusxa5va1riLMtwX5UvhO4AvxRo=
-::fBE1pAF6MU+EWHreyHcjLQlHcACDNWy7OpEZ++Pv4Pq7oEkIWusxa5va1riLMtwa5EHhbdgnxRo=
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFB9VRQODAE+/Fb4I5/jH7e6SrEQTR/Y+dIPeyIiJL+8X1XbSYqkk1XVU1sIPA3s=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF65
-::cxAkpRVqdFKZSjk=
-::cBs/ulQjdF65
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpSI=
-::egkzugNsPRvcWATEpSI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZks0
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTi
-::ZQ05rAF9IAHYFVzEqQISLQ9ASRamNXi5CacY3eby4fmTo0ERUfBf
-::eg0/rx1wNQPfEVWB+kM9LVsJDCaHKH+/FJEV++v0/e6yrEQTR/Y+dIPeyNQ=
-::fBEirQZwNQPfEVWB+kM9LVsJDCaHKH+/FJEV++v0/e6yrEQTR/Y+dIPeyNQ=
-::cRolqwZ3JBvQF1fEqQIFJhJaXxCDMGepRpcZ/Pz+/aqjq14eW/A7GA==
-::dhA7uBVwLU+EWDk=
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATElA==
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFB9VRQODAE+/Fb4I5/jH7e6SrEQTR/Y+dIPeyIisJfQH71fAfIUu2WhercUFAghMfx6nax16rHZH1g==
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
+
 
 @echo off
 
