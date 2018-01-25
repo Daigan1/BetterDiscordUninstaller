@@ -1,1 +1,0 @@
-x=msgbox("Finished uninstalling BetterDiscord. Please add Daigan#5837 for help with the uninstaller and join the BD discord for help with BD (should pop up now)", 0+64, "Done")
