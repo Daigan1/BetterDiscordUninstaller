@@ -1,0 +1,1 @@
+x=msgbox("Better Discord has been successfully detected and will now be removed ", 0+64, "BDuninstaller")
