@@ -1,2 +1,0 @@
-# BetterDiscordUninstaller
-A Uninstaller project
